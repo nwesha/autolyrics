@@ -43,26 +43,26 @@ An end-to-end **lyrics transcription** application that converts singing audio i
 | Deployment         | Hugging Face Spaces               |
 
 ---
-```
+<!--
 ## 📸 Demo
 
 > Replace these placeholders with screenshots of your application.
 
-
+```
 ### Home Page
 
 assets/home.png
 <img width="1801" height="866" alt="image" src="https://github.com/user-attachments/assets/f52e2588-6e24-4a76-9764-35798141f640" />
+```
 
-
-
+```
 ### Transcription Output
 
 
 assets/output.png
-
 ```
 ---
+-->
 
 ## 📂 Project Structure
 
