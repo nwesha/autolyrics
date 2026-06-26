@@ -32,7 +32,7 @@ An end-to-end **lyrics transcription** application that converts singing audio i
 ---
 
 ## 🛠 Tech Stack
-
+```
 | Category           | Technologies                      |
 | ------------------ | --------------------------------- |
 | Language           | Python                            |
@@ -41,7 +41,7 @@ An end-to-end **lyrics transcription** application that converts singing audio i
 | Frameworks         | Hugging Face Transformers, Gradio |
 | Audio Processing   | Librosa                           |
 | Deployment         | Hugging Face Spaces               |
-
+```
 ---
 <!--
 ## 📸 Demo
