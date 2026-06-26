@@ -1,0 +1,8 @@
+torch
+transformers
+peft
+librosa
+soundfile
+accelerate
+sentencepiece
+datasets
